@@ -1,6 +1,10 @@
 The **conveyor_sim** project is intended for visualisation and validation 
 of the efficiency of a linear conveyor with different workstations
 
+[![Watch the video](/data/example.png)](https://www.youtube.com/watch?v=KF4AeIblpEo)
+
+## Overview
+
 ![Simulated conveyor](/data/conveyor_legend.png)
 Description of the most important parts of the simulated conveyor system
 
