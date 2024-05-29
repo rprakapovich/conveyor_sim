@@ -43,4 +43,6 @@ You can add a maximum of 6 types of workstations to the table. The number
 of workstations in each group is almost unlimited.
 
 Once all the necessary parameters have been entered into the table, the
-simulation process is started using the **conveyor_sim.m** script.
+simulation process is started using the **conveyor_sim.m** script. In order
+for the m-script to work correctly, you must first activate the 
+`Conveyor_sim.prj` file.
