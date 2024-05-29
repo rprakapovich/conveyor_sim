@@ -31,7 +31,7 @@ the conveyor):
               workstation, s
 
 An example of filling out the rows of the _stations.xlsx_ table located in
-the `/data folder`:
+the `/data` folder:
 
 | Position | Picking | Working | Placing | Busy | Process | Type |
 | -------- | ------- | ------- | ------- | ---- | ------- | ---- |
