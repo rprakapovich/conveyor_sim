@@ -82,7 +82,7 @@ for t = 0: ((MAX_UNITS * D + L) / V + sum(sum(Stations(indx,2:4))))/ dt
     % Render only every RENDER_EVERY steps
     if mod(t, RENDER_EVERY) == 0
         visual_update(Visual, Stations, Units, Finished_Units, Defect_Units);
-        drawnow limitrate   
+        drawnow % limitrate - uncomment if you will use standalone version of MATLAB   
     end
     
 end

@@ -87,3 +87,16 @@ You can add a maximum of 6 types of workstations to the table. The number of wor
 1. Open MATLAB and navigate to the project folder.
 2. In order for the m-script to work correctly, you must first activate the environment by double-clicking the `Conveyor_sim.prj` file.
 3. Once all the necessary parameters have been entered into the `stations.xlsx` table, start the simulation process by running the `conveyor_sim.m` script.
+
+### 🌐 Run it Free in Your Browser (No License Required)
+
+Don't have MATLAB installed? You can run and test this simulation directly in your web browser using **MATLAB Online Basic**. 
+
+MathWorks provides up to **20 hours per month of free use** for anyone with a registered account.
+
+**Steps to run online:**
+1. Go to [matlab.mathworks.com](https://matlab.mathworks.com/) and create a free MathWorks account.
+2. Click **"Open MATLAB Online"**.
+3. Drag and drop the downloaded `conveyor_sim` project folder into your MATLAB Drive panel (on the left side of the screen).
+4. Double-click the `Conveyor_sim.prj` file to activate the environment.
+5. Open and run `conveyor_sim.m` to see the animation!
